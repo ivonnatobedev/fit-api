@@ -6,4 +6,3 @@ export { default as ExerciseModel } from "./Exercise";
 export { default as ExerciseTypeModel } from "./ExerciseType";
 export { default as GymModel } from "./Gym";
 export { default as ImageModel } from "./Image";
-export { default as StarModel } from "./Star";
